@@ -10,37 +10,13 @@
 
 ---
 
-## Table of contents
-
-- [Demo](#demo)
-- [What is this?](#what-is-this)
-- [Features](#features)
-- [Getting started](#getting-started)
-- [Requirements](#requirements)
-- [FAQ](#faq)
-- [Troubleshooting](#troubleshooting)
-
 ## Demo
 
-<details open>
-  <summary><b>Videos</b></summary>
+[hanamura_edited.webm](https://github.com/user-attachments/assets/bbebfccc-6d3d-40c5-a422-497fe0bd2624)
 
-  - **hanamura_edited.webm**  
-    <a href="https://github.com/user-attachments/assets/3d2c82c5-4b74-46b3-b317-bdabd45ac988">Click to view</a>
+[dokidoki.webm](https://github.com/user-attachments/assets/34006102-898d-46fd-95e2-e135e5b91473)
 
-  - **dokidoki.webm**  
-    <a href="https://github.com/user-attachments/assets/a20ea18b-2ab5-469d-8f39-94bac99fd00a">Click to view</a>
-
-</details>
-
-<details open>
-  <summary><b>Screenshots</b></summary>
-
-  <p align="center">
-    <img width="900" alt="Screenshot 2026-04-13 at 1 37 48" src="https://github.com/user-attachments/assets/2481aea8-751f-450c-8fde-dec5b63c9de4" />
-  </p>
-
-</details>
+<img width="400" alt="YakuScan" src="https://github.com/user-attachments/assets/2481aea8-751f-450c-8fde-dec5b63c9de4" />
 
 ## What is this?
 
@@ -56,9 +32,10 @@ Even though setting up local AI is usually very complex, this tool includes a fu
 
 You can choose from various AI options depending on your PC's performance, and it can even run on a laptop (at least to some extent).
 
+
 ## Features
 
-- OCR from a selected screen area / image / window
+- OCR from a selected screen area / image / window / Web Camera
 - Integrates with dictionary websites
 - Optional local AI integration for:
   - translations
@@ -67,6 +44,7 @@ You can choose from various AI options depending on your PC's performance, and i
 - Text-to-speech (TTS)
 - One-click automatic setup for local AI
 
+
 ## Getting started
 
 1. Download: http://beta-japan.com/exis/?p=yakuscan&t=1
@@ -74,11 +52,10 @@ You can choose from various AI options depending on your PC's performance, and i
 3. Select the area/window you want to OCR.
 4. Use the built-in actions (dictionary / translate / example sentences / TTS).
 
-> If you want to use local AI, look for the automatic setup button in the app.
 
 ## Requirements
 
-- Windows PC (recommended for best compatibility)
+- Windows PC or MacOS
 - Optional (for local AI): a GPU is recommended, but some configurations may run on laptop hardware
 
 ## FAQ
@@ -87,9 +64,9 @@ You can choose from various AI options depending on your PC's performance, and i
   A: It should work with anything that can be captured from your screen.
 
 - **Q: Do I need local AI?**  
-  A: No. You can still use OCR + dictionary websites.
+  A: No, you don't have to prepare anything beforehand. This tool automatically download everything needed by clicking one button.
 
 ## Troubleshooting
 
-- If OCR is inaccurate, try changing the capture area and ensure the text is clearly visible.
-- If local AI setup fails, please open an issue with your OS / GPU / logs.
+- If OCR is inaccurate, try changing the capture area and ensure the text is clearly visible. Or upgrade the model to a higher one.
+- If local AI setup fails, reboot your computer and please try again.
