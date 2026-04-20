@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="http://beta-japan.com/exis/?p=yakuscan&t=1"><b>Download YakuScan</b></a>
+  (Windows and Mac)
 </p>
 
 ---
