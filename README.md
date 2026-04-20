@@ -12,8 +12,10 @@
 
 ## Demo
 
+Japanese to English Example (This app can recognize any language)
 [hanamura_edited.webm](https://github.com/user-attachments/assets/bbebfccc-6d3d-40c5-a422-497fe0bd2624)
 
+English to Japanese Example
 [dokidoki.webm](https://github.com/user-attachments/assets/34006102-898d-46fd-95e2-e135e5b91473)
 
 <img width="400" alt="YakuScan" src="https://github.com/user-attachments/assets/2481aea8-751f-450c-8fde-dec5b63c9de4" />
