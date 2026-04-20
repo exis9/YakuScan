@@ -36,7 +36,9 @@
 <details open>
   <summary><b>Screenshots</b></summary>
 
-  <img width="1646" height="1382" alt="Screenshot 2026-04-13 at 1 37 48" src="https://github.com/user-attachments/assets/2481aea8-751f-450c-8fde-dec5b63c9de4" />
+  <p align="center">
+    <img width="900" alt="Screenshot 2026-04-13 at 1 37 48" src="https://github.com/user-attachments/assets/2481aea8-751f-450c-8fde-dec5b63c9de4" />
+  </p>
 
 </details>
 
